@@ -1,0 +1,3 @@
+[submodule "divar-backend-course"]
+	path = divar-backend-course
+	url = https://github.com/pouyapayandeh/divar-backend-course.git
